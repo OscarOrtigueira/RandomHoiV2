@@ -10,3 +10,6 @@ This mod is completed and with no futher support, so if anyone want to expand fe
 You need to put all .txt on the folder of the generated .exe to work.
 
 Solution for Visual Studio 2012, framework 2.0.
+
+
+Not all files required to run the generator correctly are included. You need to downlad randomHoiV2 from paradox forums to get all files.
