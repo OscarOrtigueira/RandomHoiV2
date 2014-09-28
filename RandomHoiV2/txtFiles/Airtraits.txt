@@ -1,0 +1,5 @@
+tank_buster
+carpet_bomber
+night_flyer
+fleet_destroyer
+superior_air_tactician

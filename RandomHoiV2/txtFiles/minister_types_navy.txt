@@ -1,0 +1,5 @@
+open_seas_doctrine
+decisive_naval_battle_doctrine
+power_projection_doctrine
+indirect_approach_doctrine
+base_control_doctrine

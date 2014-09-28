@@ -1,0 +1,17 @@
+aluminium
+rubber
+heavy_water
+uranium 
+tungsten
+fur
+black_soil
+cinchona
+helium
+gold
+horses
+antibiotics
+ballbearings
+prefab_ship_facilities
+dockyard_facilities
+oil_refinery
+automotive_industry

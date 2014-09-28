@@ -1,0 +1,5 @@
+school_of_manoeuvre
+school_of_fire_support
+school_of_mass_combat
+school_of_psychology
+school_of_defence

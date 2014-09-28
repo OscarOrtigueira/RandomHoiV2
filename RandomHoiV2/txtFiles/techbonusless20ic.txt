@@ -1,0 +1,8 @@
+militia_smallarms = 4
+militia_support = 4
+militia_guns = 4
+militia_at = 4
+agriculture =5
+industral_production = 3
+industral_efficiency = 3
+peoples_army =2

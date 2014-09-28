@@ -1,0 +1,5 @@
+air_superiority_doctrine
+naval_aviation_doctrine
+army_aviation_doctrine
+carpet_bombing_doctrine
+vertical_envelopment_doctrine

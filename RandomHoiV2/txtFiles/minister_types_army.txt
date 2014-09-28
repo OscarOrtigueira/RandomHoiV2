@@ -1,0 +1,7 @@
+mad_proponent
+logistics_specialist
+elastic_defence_doctrine
+static_defence_doctrine
+decisive_battle_doctrine
+armoured_spearhead_doctrine
+guns_and_butter_doctrine
