@@ -1861,6 +1861,8 @@ namespace RandomHoiV2
                 {
 
                     //create directories
+                    System.IO.Directory.CreateDirectory(Application.StartupPath + "/cgm");
+                    System.IO.Directory.CreateDirectory(Application.StartupPath + "/common");
                     System.IO.Directory.CreateDirectory(Application.StartupPath + "/common/countries");
                     System.IO.Directory.CreateDirectory(Application.StartupPath + "/history");
                     System.IO.Directory.CreateDirectory(Application.StartupPath + "/history/countries");
@@ -1870,6 +1872,9 @@ namespace RandomHoiV2
                     System.IO.Directory.CreateDirectory(Application.StartupPath + "/history/leaders");
                     System.IO.Directory.CreateDirectory(Application.StartupPath + "/history/wars");
                     System.IO.Directory.CreateDirectory(Application.StartupPath + "/history/diplomacy");
+                    System.IO.Directory.CreateDirectory(Application.StartupPath + "/localisation");
+                    System.IO.Directory.CreateDirectory(Application.StartupPath + "/script");
+                    System.IO.Directory.CreateDirectory(Application.StartupPath + "/script/country");
                 }
 
                 catch (Exception ex)
