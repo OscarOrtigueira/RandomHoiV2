@@ -13,7 +13,3 @@ Solution for Visual Studio 2012, framework 2.0.
 
 
 Not all files required to run the generator correctly are included. You need to downlad randomHoiV2 from paradox forums to get all files.
-
-http://forum.paradoxplaza.com/forum/showthread.php?473568-DOWNLOAD-Random-Scenario-for-normal-Map-2.7-TFH-2.43-FTM-1.72-SF-and-1.3-HOI
-
-You need to register your Hoi III copy on paradox forum to gain access to your download
